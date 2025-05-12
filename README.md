@@ -1,4 +1,4 @@
-﻿# 🚀 React + Tailwind CSS + Auth0 Social Login
+# 🚀 React + Tailwind CSS + Auth0 Social Login
 
 This project is a React application styled with Tailwind CSS and integrated with **Auth0** for social authentication using **Google, GitHub, Apple**, and more.
 
@@ -75,6 +75,13 @@ pm run eject\ – Ejects configuration (optional)
 - [React Docs](https://reactjs.org/)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 - [Auth0 React Docs](https://auth0.com/docs/quickstart/spa/react/01-login)
+
+---
+
+## ✨ Screenshot 
+![App Screenshot 1](/src/screenshot1.png)
+![App Screenshot 2](/src/screenshot2.png)
+![App Screenshot 3](/src/screenshot3.png)
 
 ---
 
